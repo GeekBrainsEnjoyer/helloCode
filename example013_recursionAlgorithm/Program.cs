@@ -32,7 +32,7 @@ void fill2DArray(int[,] array)
     }
 }
 
-int[,] matrix = new int[3, 4];
+int[,] matrix = new int[7, 10];
 print2DArray(matrix);
 Console.WriteLine();
 fill2DArray(matrix);
